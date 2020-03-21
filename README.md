@@ -1,2 +1,0 @@
-# MedicationCam
-HKBU-Hons-Project
