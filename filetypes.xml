@@ -1,9 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="apk" approved="true" type="APK" />
       <mapping ext="apk" type="ARCHIVE" />
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="APK" />
     </extensionMap>
