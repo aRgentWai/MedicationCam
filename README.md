@@ -1,6 +1,4 @@
-# Project Title
-
-MedicationCam
+# MedicationCam
 
 ## Getting Started
 
